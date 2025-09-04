@@ -1,34 +1,32 @@
-# Olá! Eu sou o <Seu Nome> 👋
+# Olá! 👋 Eu sou o Lucas Moura
 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS), início em 2025.  
+🔍 Mais de 13 anos de experiência como Search Engine Evaluator em projetos do Google.  
+🚀 Em transição para a área de **Desenvolvimento Back-End**, com foco em Python.
 
-> Estudante de ADS | Back-end Python em formação | Projetos práticos e bem documentados.
+---
 
+## 🚀 Tecnologias e Ferramentas
+- **Linguagens:** Python, JavaScript (ES6+)  
+- **Back-End:** Flask, FastAPI (básico)  
+- **Front-End:** HTML5, CSS3, React (iniciante)  
+- **Banco de Dados:** SQLite, PostgreSQL (noções)  
+- **Controle de Versão:** Git & GitHub  
 
-## Sobre mim
-- 🎯 Objetivo 2025: primeiro estágio/posição remota em **Back-end**.
-- 🔎 Interesses: APIs REST, automação, bases de dados, segurança básica.
-- 🧪 Gosto de validar ideias com pequenos protótipos e testes.
+---
 
+## 💡 Projeto em Destaque
+- [To-do List](https://github.com/<seu-usuario>/todo-list) — Aplicação simples em React para organizar tarefas do dia a dia.  
 
-## Stack atual
-- **Linguagens:** Python, JavaScript (ES6)
-- **Back-end:** Flask/FastAPI, Node.js básico
-- **Front-end:** HTML5, CSS3, React básico
-- **Banco:** SQLite, PostgreSQL (noções)
-- **DevOps:** Git/GitHub, GitHub Actions (noções)
+---
 
+## 🎯 Objetivos
+- Consolidar conhecimentos em **Python e APIs REST**  
+- Conquistar minha primeira oportunidade profissional em **desenvolvimento de software**  
+- Colaborar em projetos de tecnologia remotos e escaláveis  
 
-## Projetos em destaque
-- [Nome do Projeto 1](link) — 1 frase de valor (o que resolve)
-- [Nome do Projeto 2](link) — 1 frase de valor
-- [Calculadora de Orçamento Pessoal](link) — app simples, foco em estado e componentização (React)
+---
 
-
-## Aprendizados recentes
-- ✅ Versionamento: branches, PRs e mensagens de commit claras
-- ✅ Documentação: READMEs com objetivos, setup e limitações
-
-
-## Como falar comigo
+## 📫 Como me encontrar
 - LinkedIn: https://www.linkedin.com/in/lucashgmbr/
 - E-mail: contato@lucashgmbr.com.br
